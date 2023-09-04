@@ -1,0 +1,19 @@
+{
+  "name": "grubox-dark-harder",
+  "displayName": "Gruvbox Dark (Harder)",
+  "version": "0.1.0",
+  "description": "A dark theme based on Gruvbox, with higher contrast",
+  "author": "michaeldonovan",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.67.2"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "homepage": "https://github.com/michaeldonovan/vscode-gruvbox-dark-harder",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michaeldonovan/vscode-gruvbox-dark-harder.git"
+  }
+}
