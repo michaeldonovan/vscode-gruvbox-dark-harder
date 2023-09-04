@@ -1,5 +1,5 @@
 {
-	"$schema": "vscode://schemas/color-theme",
+  "name": "Gruvbox Dark Harder",
 	"type": "dark",
 	"colors": {
 		"activityBar.activeBackground": "#191919",
